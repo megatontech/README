@@ -1,3 +1,4 @@
+# 简体中文
 ## [ V2EX = way to explore](https://v2ex.com/)
 > V2EX 是创意工作者们的社区。这里目前汇聚了超过 110,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。 
 
@@ -15,3 +16,23 @@ V2EX的成员中大多是活跃的中国开发者，特为我们当中杰出的�
 - 可在此项目内提交issue。
 - 也可在[V2EX](https://v2ex.com/)内发帖。
 - [![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# 繁体中文
+
+## [ V2EX = way to explore](https://v2ex.com/)
+> V2EX 是創意工作者們的社區。這裡目前匯聚了超過 110,000 名主要來自互聯網行業、遊戲行業和媒體行業的創意工作者。 V2EX 希望能夠成為創意工作者們的生活和事業的一部分。
+
+- [關於V2EX](https://v2ex.com/about)
+- [關於V2EX站長Livid](http://livid.v2ex.com/portfolio.html)
+- [關於V2EX的歷史](http://livid.v2ex.com/essays/2012/04/25/v2ex-2to3/)
+
+## V2Git
+V2EX的成員中大多是活躍的中國開發者，特為我們當中傑出的各位設立此組織，方便V2EXer合作與分享，以便貢獻出優秀的代碼。這不是屬於一個個人的團體，這裡屬於我們當中優秀的每一位。這裡不由某一位特定的人所領導或管理，每個人都可以在組織內建立團隊合作展開項目。
+
+## 如何加入
+[V2EX](https://v2ex.com/)中每一位成員都可以申請加入，目前暫用[此貼](https://v2ex.com/t/278487#reply421)作為申請入口。
+
+## 疑問
+- 可在此項目內提交issue。
+- 也可在[V2EX](https://v2ex.com/)內發帖。
+- [![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README ?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
