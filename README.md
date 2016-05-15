@@ -1,4 +1,6 @@
 ## [ V2EX = way to explore](https://v2ex.com/)
+
+[![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 > V2EX 是创意工作者们的社区。这里目前汇聚了超过 110,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。 
 
 - [关于V2EX](https://v2ex.com/about)
