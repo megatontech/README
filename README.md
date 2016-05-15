@@ -49,11 +49,31 @@ V2EX的成員中大多是活躍的中國開發者，特為我們當中傑出的�
 - [About the history of V2EX](http://livid.v2ex.com/essays/2012/04/25/v2ex-2to3/)
 
 ## V2Git
-V2EX consists of outstanding Chinese developers, this organization is specially set up for V2EXers. So it's easier for us to collaborate and share in order to contribute good code. This is not an organization for one individual, but for every one of us. This organization is not led nor managed by a particular member. Everyone could set up a team within it to cooperate projects.
+V2EX consists of outstanding Chinese developers, this organization is specially set up for V2EXers. So it's easier for us to collaborate and share in order to contribute good code. This is not an organization for one individual, but for every one of us. This organization is not led nor managed by a particular member. Everyone could form a team within it to cooperate projects.
 ## How to join
 Every member of [V2EX](https://v2ex.com/) could apply. Now we use [this post](https://v2ex.com/t/278487#reply421) as a temporary application entrance.
 
 ## Questions
 - You could submit issue in this project.
 - You could also post in [V2EX](https://v2ex.com/).
+- [![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+****
+# français
+
+## [V2EX = moyen d'explorer](https://v2ex.com/)
+> V2EX est une communauté de start-ups, les concepteurs, les développeurs et les créateurs.
+
+- [A propos de V2EX](https://v2ex.com/about)
+- [A propos de Webmaster de V2EX - Livid](http://livid.v2ex.com/portfolio.html)
+- [A propos de l'histoire de V2EX](http://livid.v2ex.com/essays/2012/04/25/v2ex-2to3/)
+
+## V2Git
+V2EX se compose de développeurs chinois exceptionnels, cette organisation est spécialement mis en place pour V2EXers. Il est donc plus facile pour nous de collaborer et de partager afin de contribuer bon code. Ce n'est pas une organisation pour une personne, mais pour chacun d'entre nous. Cette organisation ne conduit ni géré par un membre particulier. Tout le monde pourrait former une équipe à l'intérieur pour coopérer projets.
+## Comment adhérer
+Chaque membre de [V2EX](https://v2ex.com/) pourrait appliquer. Maintenant, nous utilisons [ce post](https://v2ex.com/t/278487#reply421) comme une entrée temporaire de l'application.
+
+## Les questions
+- Vous pouvez soumettre issue dans ce projet.
+- Vous pouvez également poster dans [V2EX](https://v2ex.com/).
 - [![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
