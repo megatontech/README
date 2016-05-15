@@ -17,6 +17,7 @@ V2EX的成员中大多是活跃的中国开发者，特为我们当中杰出的�
 - 也可在[V2EX](https://v2ex.com/)内发帖。
 - [![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+****
 # 繁体中文
 
 ## [ V2EX = way to explore](https://v2ex.com/)
@@ -37,6 +38,7 @@ V2EX的成員中大多是活躍的中國開發者，特為我們當中傑出的�
 - 也可在[V2EX](https://v2ex.com/)內發帖。
 - [![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README ?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+****
 # English
 
 ## [V2EX = way to explore](https://v2ex.com/)
@@ -47,7 +49,7 @@ V2EX的成員中大多是活躍的中國開發者，特為我們當中傑出的�
 - [About the history of V2EX](http://livid.v2ex.com/essays/2012/04/25/v2ex-2to3/)
 
 ## V2Git
-V2EX consists of outstanding Chinese developers, this organization is specially set up for V2EXers. So it's easier for us to collaborate and share in order to contribute good code. This is not an organization for one individual, but for every one of us. This organization is not led nor managed by a particular member. Everyone can set up a team within it to cooperate projects.
+V2EX consists of outstanding Chinese developers, this organization is specially set up for V2EXers. So it's easier for us to collaborate and share in order to contribute good code. This is not an organization for one individual, but for every one of us. This organization is not led nor managed by a particular member. Everyone could set up a team within it to cooperate projects.
 ## How to join
 Every member of [V2EX](https://v2ex.com/) could apply. Now we use [this post](https://v2ex.com/t/278487#reply421) as a temporary application entrance.
 
