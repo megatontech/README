@@ -1,6 +1,6 @@
 # 简体中文
 ## [ V2EX = way to explore](https://v2ex.com/)
-> V2EX 是创意工作者们的社区。这里目前汇聚了超过 110,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。 
+> V2EX 是创意工作者们的社区。这里目前汇聚了超过 110,000 名主要来自互联网行业、游戏行业和媒体行业的创意工作者。V2EX 希望能够成为创意工作者们的生活和事业的一部分。
 
 - [关于V2EX](https://v2ex.com/about)
 - [关于V2EX站长Livid](http://livid.v2ex.com/portfolio.html)
@@ -36,13 +36,13 @@ V2EX的成員中大多是活躍的中國開發者，特為我們當中傑出的�
 ## 疑問
 - 可在此項目內提交issue。
 - 也可在[V2EX](https://v2ex.com/)內發帖。
-- [![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README ?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+- [![Join the chat at https://gitter.im/V2Git/README](https://badges.gitter.im/V2Git/README.svg)](https://gitter.im/V2Git/README?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ****
 # English
 
 ## [V2EX = way to explore](https://v2ex.com/)
-> V2EX is a community of start-ups, designers, developers and creative people. 
+> V2EX is a community of start-ups, designers, developers and creative people.
 
 - [About V2EX](https://v2ex.com/about)
 - [About V2EX's Webmaster - Livid](http://livid.v2ex.com/portfolio.html)
